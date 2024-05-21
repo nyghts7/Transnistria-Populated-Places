@@ -1,3 +1,5 @@
+please credit me (nyghts) for anything you use from this
+
 population data comes from pop-stat.mashke, while coordinates come from openstreetmap via overpass-turbo, maps are made for and using cityquiz.io
 
 http://pop-stat.mashke.org/about/
